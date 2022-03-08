@@ -1,0 +1,20 @@
+header {
+    height: 4rem;
+    width: 100vw;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}  
+
+.menu-button {
+    background-image: url("./button-menu.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    border: none;
+    border-radius: 50%;
+    height: 3rem;
+    width: 3rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}

@@ -1,0 +1,40 @@
+footer {
+    height: 4rem;
+    width: 100vw;
+    background-color: #F2C968;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button {
+    height: 2rem;
+    width: 2rem;
+    border-style: solid;
+    border-color: white;
+    border-radius: 25%;
+    padding: 0;
+    background-color: #F2C968;
+    cursor: pointer;
+}
+
+.info-button {
+    background-image: url("./button-info-white.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.garden-button {
+    background-image: url("./button-garden-white.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.map-button {
+    background-image: url("./button-map-white.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
