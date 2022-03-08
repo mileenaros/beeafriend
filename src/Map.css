@@ -1,0 +1,6 @@
+.map {
+    position: absolute;
+    background-image: url(https://media.wired.com/photos/59269cd37034dc5f91bec0f1/master/pass/GoogleMapTA.jpg);
+    height: calc(100vh - 4rem);
+    width: 100vw;
+}

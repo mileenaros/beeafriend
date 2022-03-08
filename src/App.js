@@ -1,7 +1,8 @@
 import './App.css';
 import NavBar from "./NavBar.js";
 import Menu from "./Menu.js";
-import { useState } from "react";
+import Map from "./Map.js";
+import React , {useState}  from 'react';
 
 
 function App() {

@@ -4,6 +4,7 @@ header {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
+    z-index: 1;
 }  
 
 .menu-button {
